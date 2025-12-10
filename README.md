@@ -8,7 +8,7 @@ Results-driven Prompt Engineer and AI Prototype Specialist with 5+ years of hand
 Professional Experience
 
 Prompt Engineer & AI Prototype Specialist
-Freelance / Independent Consultant   2023 – Present
+Freelance / Independent Consultant   2025 – Present
 - Design, test, and refine advanced prompts for large language models (LLMs) and multimodal AI systems to achieve high-precision outputs in complex domains.
 - Rapidly prototype AI-driven tools and experiences that bridge technical feasibility with end-user expectations.
 - Leverage 5+ years of IT recruitment expertise to infuse domain-specific knowledge (software engineering, data science, cloud architecture, cybersecurity, etc.) into prompt engineering and AI solution design.
