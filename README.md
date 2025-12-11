@@ -1,9 +1,10 @@
 Yuliya Kolesnikova
 Prompt Engineer & AI Prototype Specialist
 Kyiv, Ukrane
-| yuliyakolesnikova@hotmail.com  |  [https://linkedin.com/in/yuliya-kolesnikova] (https://linkedin.com/in/yuliya-kolesnikova)|  https://github.com/YuliyaKolesnikova
+| yuliyakolesnikova@hotmail.com  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  https://github.com/YuliyaKolesnikova
 
 Professional Summary
+
 Results-driven Prompt Engineer and AI Prototype Specialist with 5+ years of hands-on IT Recruitment experience. Deep understanding of the technology landscape, talent requirements, and industry trends allows me to design AI solutions and prompts that are technically accurate, user-centric, and aligned with real-world business needs.
 
 Professional Experience
@@ -15,10 +16,13 @@ Freelance / Independent Consultant   2025 – Present
 - Leverage 5+ years of IT recruitment expertise to infuse domain-specific knowledge (software engineering, data science, cloud architecture, cybersecurity, etc.) into prompt engineering and AI solution design.
 
 Key Projects
-• ChristmasTree (2025)  
-  Developed an interactive generative AI experience that allows users to design and customize highly detailed, realistic Christmas trees via natural-language prompts. Implemented advanced prompt-chaining techniques and style-control methods that reduced hallucination by 85% while supporting multiple artistic styles (realistic, cartoon, steampunk, etc.). Deployed as a viral web demo during the 2024 holiday season.
 
-• HappyNewYear2026 (2025)  
+• [ChristmasTree (2025)](https://github.com/christmastreej/christmastreej.github.io)
+
+  Developed an interactive generative AI experience that allows users to design and customize highly detailed, realistic Christmas trees via natural-language prompts. Implemented advanced prompt-chaining techniques and style-control methods that reduced hallucination by 85% while supporting multiple artistic styles (realistic, cartoon, steampunk, etc.). Deployed as a viral web demo during the 2026 holiday season.
+
+• [HappyNewYear2026 (2025)](https://github.com/happynewyear2026/happynewyear2026.github.io)
+
   Created a multimodal AI celebration tool that generates personalized New Year 2026 greetings, fireworks animations, resolution planners, and predictive “2026 highlights” based on user inputs. Combined structured reasoning prompts, image generation (Stable Diffusion / Flux), and short video synthesis. Achieved 94% user satisfaction in beta testing and widespread social media sharing on January 1, 2026.
 
 Senior IT Recruitment Specialist (Technology Focus)
