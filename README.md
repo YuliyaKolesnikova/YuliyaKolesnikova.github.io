@@ -22,17 +22,26 @@ Key Projects
   Created a multimodal AI celebration tool that generates personalized New Year 2026 greetings, fireworks animations, resolution planners, and predictive “2026 highlights” based on user inputs. Combined structured reasoning prompts, image generation (Stable Diffusion / Flux), and short video synthesis. Achieved 94% user satisfaction in beta testing and widespread social media sharing on January 1, 2026.
 
 Senior IT Recruitment Specialist (Technology Focus)
-Various Agencies & In-House Roles                                      2018 – 2023
+Various Agencies & In-House Roles                                      2019 – 2024
+
 - Placed 200+ mid-to-senior level engineers across full-stack, data, ML, DevOps, and cybersecurity roles.
+  
 - Built strong domain expertise by conducting thousands of technical interviews and evaluating real-world skill requirements.
+  
 - Advised hiring managers and product teams on emerging technology trends, salary benchmarks, and skill-set evolution—knowledge now directly applied to AI prompt engineering and prototyping.
 
 Skills
+
 • Prompt Engineering (chain-of-thought, tree-of-thought, few-shot, ReAct, multimodal)
+
 • AI Prototyping (LangChain, LlamaIndex, Vercel AI SDK, Hugging Face)
+
 • Large Language Models (GPT-4o, Claude 3.5, Grok, Llama 3.1, Flux, SDXL)
+
 • Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
+
 • Tools: Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
+
 • Soft Skills: Stakeholder communication, requirements translation, cross-functional collaboration
 
 Education
