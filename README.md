@@ -25,8 +25,12 @@ Key Projects
 
   Created a multimodal AI celebration tool that generates personalized New Year 2026 greetings, fireworks animations, resolution planners, and predictive “2026 highlights” based on user inputs. Combined structured reasoning prompts, image generation (Stable Diffusion / Flux), and short video synthesis. Achieved 94% user satisfaction in beta testing and widespread social media sharing on January 1, 2026.
 
-Senior IT Recruitment Specialist (Technology Focus)
-Various Agencies & In-House Roles                                      2019 – 2024
+ • [Fireworks Show](https://github.com/fireworksshowj/fireworksshowj.github.io)
+ 
+  An engaging and visually stunning web application featuring interactive fireworks, realistic particle physics, and mesmerizing explosions. Click anywhere to launch beautiful fireworks into a starlit night sky. Perfect for celebrations, relaxation, or simply enjoying dazzling visual effects.
+ 
+IT Recruitment Specialist (Technology Focus) 
+Covent IT (Israeli-based Tech Company) & Various Agencies                                   2019 – 2024
 
 - Placed 200+ mid-to-senior level engineers across full-stack, data, ML, DevOps, and cybersecurity roles.
   
