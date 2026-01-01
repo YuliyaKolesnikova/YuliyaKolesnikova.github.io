@@ -42,13 +42,9 @@ Skills
 
 • Prompt Engineering (chain-of-thought, tree-of-thought, few-shot, ReAct, multimodal)
 
-• AI Prototyping (LangChain, LlamaIndex, Vercel AI SDK, Hugging Face)
+• GPT-5, Claude Opus 4.5, Grok 4.1, Gemini 3 Pro.
 
-• Large Language Models (GPT-4o, Claude 3.5, Grok, Llama 3.1, Flux, SDXL)
-
-• Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
-
-• Tools: Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
+• Tools:Git, Dell-e, Canva
 
 • Soft Skills: Stakeholder communication, requirements translation, cross-functional collaboration
 
