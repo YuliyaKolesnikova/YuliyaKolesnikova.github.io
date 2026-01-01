@@ -65,5 +65,6 @@ English (B1)
 Deutsch (A1)
 
 
-Interests
+Interests:
+
 Generative AI experiences, holiday-themed interactive projects, exploring the intersection of human psychology and prompt design.
