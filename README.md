@@ -38,13 +38,21 @@ Covent IT (Israeli-based Tech Company) & Various Agencies                       
   
 - Advised hiring managers and product teams on emerging technology trends, salary benchmarks, and skill-set evolution—knowledge now directly applied to AI prompt engineering and prototyping.
 
-Skills
+Skills:
+
 • Prompt Engineering (chain-of-thought, tree-of-thought, few-shot, ReAct, multimodal)
+
 • AI Prototyping (LangChain, LlamaIndex, Vercel AI SDK, Hugging Face)
+
 • Large Language Models (GPT-5, Claude Opus 4.5, Grok 4.1, Gemini 3 Pro)
+
 • Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
+
 • Tools: Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
-• Soft Skills: Stakeholder communication, requirements translation, cross-functional collaboration
+
+Soft Skills: 
+
+Stakeholder communication, requirements translation, cross-functional collaboration
 
 Education
 
