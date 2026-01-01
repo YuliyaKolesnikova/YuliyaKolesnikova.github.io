@@ -51,6 +51,13 @@ Skills
 Education
 Borys Grinchenko Kyiv Metropolitan University: Kyiv, Kyiv City, UA - 2025
 
+Сertificates:
+Advanced Prompt Engineering Techniques https://www.linkedin.com/learning/certificates/ba8790f7c19b16c1998e5856ac51e406329611f712cb15680d8c8feb88e7c74d?trk=share_certificate
+Introduction to Prompt Engineering for Generative AI https://www.linkedin.com/learning/certificates/6e0390eb333f58512376f1c7edfca45a5692ed02092f13d7798a51edd2edd2f2
+Prompt Engineering: How to Talk to the AIs https://www.linkedin.com/learning/certificates/1c1c69089638e52f09d50cf70858ce2ec8d361623d49d727631e8a74d6d98d75?trk=share_certificate
+
+
+
 
 Languages
 English (B1)
