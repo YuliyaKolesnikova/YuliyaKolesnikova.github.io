@@ -38,6 +38,7 @@ Covent IT (Israeli-based Tech Company) & Various Agencies                       
   
 - Advised hiring managers and product teams on emerging technology trends, salary benchmarks, and skill-set evolution—knowledge now directly applied to AI prompt engineering and prototyping.
 
+
 Skills:
 
 • Prompt Engineering (chain-of-thought, tree-of-thought, few-shot, ReAct, multimodal)
@@ -48,15 +49,20 @@ Skills:
 
 • Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
 
-• Tools: Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
+
+Tools: 
+Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
+
 
 Soft Skills: 
 
 Stakeholder communication, requirements translation, cross-functional collaboration
 
+
 Education
 
 Borys Grinchenko Kyiv Metropolitan University: Kyiv, Kyiv City, UA - 2025
+
 
 Сertificates:
 
@@ -65,6 +71,7 @@ Borys Grinchenko Kyiv Metropolitan University: Kyiv, Kyiv City, UA - 2025
 [Introduction to Prompt Engineering for Generative AI](https://www.linkedin.com/learning/certificates/6e0390eb333f58512376f1c7edfca45a5692ed02092f13d7798a51edd2edd2f2)
 
 [Prompt Engineering: How to Talk to the AIs](https://www.linkedin.com/learning/certificates/1c1c69089638e52f09d50cf70858ce2ec8d361623d49d727631e8a74d6d98d75?trk=share_certificate)
+
 
 Languages:
 
