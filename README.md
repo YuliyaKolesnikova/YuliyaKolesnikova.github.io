@@ -49,9 +49,7 @@ Skills:
 
 • Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
 
-
-Tools: 
-Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
+• Tools: Python, Git, Notion, Midjourney, ComfyUI, Cursor, VS Code
 
 
 Soft Skills: 
