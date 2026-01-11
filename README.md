@@ -4,7 +4,7 @@ Kyiv, Ukrane
 | yuliyakolesnikova@hotmail.com  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  https://github.com/YuliyaKolesnikova
 
 Professional Summary
- 
+
 Results-driven Prompt Engineer and AI Prototype Specialist with 5+ years of hands-on IT Recruitment experience. Deep understanding of the technology landscape, talent requirements, and industry trends allows me to design AI solutions and prompts that are technically accurate, user-centric, and aligned with real-world business needs.
 
 Professional Experience
