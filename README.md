@@ -15,7 +15,7 @@ Freelance / Independent Consultant   2025 – Present
 - Rapidly prototype AI-driven tools and experiences that bridge technical feasibility with end-user expectations.
 - Leverage 5+ years of IT recruitment expertise to infuse domain-specific knowledge (software engineering, data science, cloud architecture, cybersecurity, etc.) into prompt engineering and AI solution design.
 
-Key Projects
+Key Projects 
 
 • [ChristmasTree (2025)](https://github.com/christmastreej/christmastreej.github.io)
 
