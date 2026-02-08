@@ -38,7 +38,7 @@ Covent IT (Israeli-based Tech Company) & Various Agencies                       
   
 - Built strong domain expertise by conducting thousands of technical interviews and evaluating real-world skill requirements.
   
-- Advised hiring managers and product teams on emerging technology trends, salary benchmarks, and skill-set evolution—knowledge now directly applied to AI prompt engineering and prototyping.
+- Advised hiring managers and product teams on emerging technology trends, salary benchmarks, and skill-set evolution-knowledge now directly applied to AI prompt engineering and prototyping.
 
 
 Skills:
