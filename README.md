@@ -2,7 +2,7 @@ Yuliya Kolesnikova
 
 Prompt Engineer & AI Prototype Specialist
 
-Kyiv, Ukriane
+Kyiv, Ukriane 
 | yuliyakolesnikova@hotmail.com  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  https://github.com/YuliyaKolesnikova
  
 Professional Summary
