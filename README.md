@@ -1,4 +1,4 @@
-Yuliya Kolesnikova
+Yuliya Kolesnikova 
  
 Prompt Engineer & AI Prototype Specialist 
 
