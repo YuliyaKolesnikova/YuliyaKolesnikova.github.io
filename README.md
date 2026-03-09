@@ -1,5 +1,5 @@
 Yuliya Kolesnikova 
- 
+
 Prompt Engineer & AI Prototype Specialist
  
 Kyiv, Ukriane 
