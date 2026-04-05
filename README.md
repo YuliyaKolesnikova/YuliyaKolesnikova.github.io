@@ -3,7 +3,7 @@ Yuliya Kolesnikova
 Prompt Engineer & AI Prototype Specialist
  
 Kyiv, Ukriane 
-| yuliyakolesnikova@hotmail.com  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  https://github.com/YuliyaKolesnikova
+| [yuliyakolesnikova@hotmail.com](mailto:yuliyakolesnikova@hotmail.com)  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  [https://github.com/YuliyaKolesnikova](https://github.com/YuliyaKolesnikova)
  
 Professional Summary
  
@@ -27,7 +27,7 @@ Key Projects
 
   Created a multimodal AI celebration tool that generates personalized New Year 2026 greetings, fireworks animations, resolution planners, and predictive “2026 highlights” based on user inputs. Combined structured reasoning prompts, image generation (Stable Diffusion / Flux), and short video synthesis. Achieved 94% user satisfaction in beta testing and widespread social media sharing on January 1, 2026.
 
- • [Fireworks Show](https://github.com/fireworksshowj/fireworksshowj.github.io)
+ • [Fireworks Show (2026)](https://github.com/fireworksshowj/fireworksshowj.github.io)
  
   An engaging and visually stunning web application featuring interactive fireworks, realistic particle physics, and mesmerizing explosions. Click anywhere to launch beautiful fireworks into a starlit night sky. Perfect for celebrations, relaxation, or simply enjoying dazzling visual effects.
  
@@ -72,6 +72,7 @@ Borys Grinchenko Kyiv Metropolitan University: Kyiv, Kyiv City, UA - 2025
 
 [Prompt Engineering: How to Talk to the AIs](https://www.linkedin.com/learning/certificates/1c1c69089638e52f09d50cf70858ce2ec8d361623d49d727631e8a74d6d98d75?trk=share_certificate)
 
+[Learn Python in 5 Hours](https://www.udemy.com/certificate/UC-547490ee-4984-43c5-8bb0-00c931be540a/)
 
 Languages:
 
