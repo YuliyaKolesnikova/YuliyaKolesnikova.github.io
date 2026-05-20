@@ -10,7 +10,7 @@ Professional Summary
 Results-driven Prompt Engineer and AI Prototype Specialist with 5+ years of hands-on IT Recruitment experience. Deep understanding of the technology landscape, talent requirements, and industry trends allows me to design AI solutions and prompts that are technically accurate, user-centric, and aligned with real-world business needs.
  
 Professional Experience
-
+ 
 Prompt Engineer & AI Prototype Specialist
 Freelance / Independent Consultant   2025 – Present
 - Design, test, and refine advanced prompts for large language models (LLMs) and multimodal AI systems to achieve high-precision outputs in complex domains.
