@@ -47,7 +47,7 @@ Skills:
 
 • AI Prototyping (LangChain, LlamaIndex, Vercel AI SDK, Hugging Face)
 
-• Large Language Models (GPT-5, Claude Opus 4.5, Grok 4.1, Gemini 3 Pro)
+• Large Language Models (GPT-5, Claude Opus 4.5, Grok 4.1, Gemini 3 Pro, ComfyIU)
 
 • Domains: Software Engineering, Machine Learning, Cloud & DevOps, Cybersecurity
 
