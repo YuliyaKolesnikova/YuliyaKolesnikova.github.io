@@ -1,18 +1,32 @@
 Yuliya Kolesnikova 
 
-Prompt Engineer & AI Prototype Specialist
+Founder and author of ShvydkoPereklad
  
 Kyiv, Ukriane
 | [yuliyakolesnikova@hotmail.com](mailto:yuliyakolesnikova@hotmail.com)  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  [https://github.com/YuliyaKolesnikova](https://github.com/YuliyaKolesnikova)
  
 Professional Summary 
 
-Results-driven Prompt Engineer and AI Prototype Specialist with 5+ years of hands-on IT Recruitment experience. Deep understanding of the technology landscape, talent requirements, and industry trends allows me to design AI solutions and prompts that are technically accurate, user-centric, and aligned with real-world business needs.
+Innovative Prompt Engineer and AI Prototype Specialist with 5+ years in IT Recruitment, now building AI-powered products and educational programs. Founder of ShvydkoPereklad translation platform and an AI educator training the next generation to work professionally with neural networks. Combines deep understanding of the tech landscape with hands-on AI expertise to design prompts and prototypes that are technically sound, user-centric, and aligned with real-world business needs.
  
 Professional Experience
  
+Founder and author of [ShvydkoPereklad](https://shvydkopereklad.github.io) May 2026 – Present
+
+A web-based translation platform focused on fast, accessible, and user-friendly language translation.
+- Designed and developed the platform architecture and user experience.
+- Implemented translation workflows and language-processing features.
+- Maintained the project's source code, documentation, and deployment pipeline.
+- Continuously improved performance, usability, and accessibility.
+- Managed the public website and ongoing feature development.
+
+Teacher at DarwinLand School April 2026 - June 2026
+- Trains teenagers in professional work with neural networks, transforming complex technologies into accessible tools for learning and creativity. 
+- Guides project development through prompt engineering, gamification, and the development of digital literacy. 
+- Helps students master the skills of the future by combining technical knowledge with critical thinking and creativity.
+
 Prompt Engineer & AI Prototype Specialist
-Freelance / Independent Consultant   2025 – Present
+Freelance / Independent Consultant January 2025 – March 2026
 - Design, test, and refine advanced prompts for large language models (LLMs) and multimodal AI systems to achieve high-precision outputs in complex domains.
 - Rapidly prototype AI-driven tools and experiences that bridge technical feasibility with end-user expectations.
 - Leverage 5+ years of IT recruitment expertise to infuse domain-specific knowledge (software engineering, data science, cloud architecture, cybersecurity, etc.) into prompt engineering and AI solution design.
