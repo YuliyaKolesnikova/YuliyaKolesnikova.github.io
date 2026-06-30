@@ -1,4 +1,4 @@
-Yuliya Kolesnikova 
+Yuliya Kolesnikova
  
 Founder and author of ShvydkoPereklad
  
