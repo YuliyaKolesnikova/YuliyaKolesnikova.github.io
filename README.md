@@ -6,7 +6,7 @@ Kyiv, Ukriane
 | [yuliyakolesnikova@hotmail.com](mailto:yuliyakolesnikova@hotmail.com)  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  [https://github.com/YuliyaKolesnikova](https://github.com/YuliyaKolesnikova)
  
 Professional Summary 
-
+ 
 Innovative Prompt Engineer and AI Prototype Specialist with 5+ years in IT Recruitment, now building AI-powered products and educational programs. Founder of ShvydkoPereklad translation platform and an AI educator training the next generation to work professionally with neural networks. Combines deep understanding of the tech landscape with hands-on AI expertise to design prompts and prototypes that are technically sound, user-centric, and aligned with real-world business needs.
  
 Professional Experience
