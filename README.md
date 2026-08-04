@@ -1,9 +1,10 @@
 Yuliya Kolesnikova
-
+ 
 Founder and author of ShvydkoPereklad
  
 Kyiv, Ukriane
 | [yuliyakolesnikova@hotmail.com](mailto:yuliyakolesnikova@hotmail.com)  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  [https://github.com/YuliyaKolesnikova](https://github.com/YuliyaKolesnikova)
+[https://www.xing.com/profile/Yuliya_Kolesikova](https://www.xing.com/profile/Yuliya_Kolesikova)
  
 Professional Summary 
  
