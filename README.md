@@ -34,11 +34,11 @@ Freelance / Independent Consultant January 2025 – March 2026
 
 Key Projects 
 
-• [ChristmasTree (2025)](https://github.com/christmastreej/christmastreej.github.io)
+• [ChristmasTree (2026)](https://github.com/christmastreej/christmastreej.github.io)
 
   Developed an interactive generative AI experience that allows users to design and customize highly detailed, realistic Christmas trees via natural-language prompts. Implemented advanced prompt-chaining techniques and style-control methods that reduced hallucination by 85% while supporting multiple artistic styles (realistic, cartoon, steampunk, etc.). Deployed as a viral web demo during the 2026 holiday season.
 
-• [HappyNewYear2026 (2025)](https://github.com/happynewyear2026/happynewyear2026.github.io)
+• [HappyNewYear2026 (2025)](https://github.com/happynewyearj/happynewyearj.github.io)
 
   Created a multimodal AI celebration tool that generates personalized New Year 2026 greetings, fireworks animations, resolution planners, and predictive “2026 highlights” based on user inputs. Combined structured reasoning prompts, image generation (Stable Diffusion / Flux), and short video synthesis. Achieved 94% user satisfaction in beta testing and widespread social media sharing on January 1, 2026.
 
