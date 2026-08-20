@@ -1,5 +1,5 @@
 Yuliya Kolesnikova
-  
+
 Founder and author of ShvydkoPereklad
   
 Kyiv, Ukriane
