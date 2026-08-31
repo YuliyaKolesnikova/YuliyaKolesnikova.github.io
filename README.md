@@ -13,7 +13,7 @@ Innovative Prompt Engineer and AI Prototype Specialist with 5+ years in IT Recru
 Professional Experience
  
 Founder and author of [ShvydkoPereklad](https://shvydkopereklad.github.io) May 2026 – Present
-
+ 
 A web-based translation platform focused on fast, accessible, and user-friendly language translation.
 - Designed and developed the platform architecture and user experience.
 - Implemented translation workflows and language-processing features.
