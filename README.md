@@ -20,7 +20,7 @@ A web-based translation platform focused on fast, accessible, and user-friendly 
 - Maintained the project's source code, documentation, and deployment pipeline.
 - Continuously improved performance, usability, and accessibility.
 - Managed the public website and ongoing feature development.
-
+ 
 Teacher at DarwinLand School April 2026 - June 2026
 - Trains teenagers in professional work with neural networks, transforming complex technologies into accessible tools for learning and creativity. 
 - Guides project development through prompt engineering, gamification, and the development of digital literacy. 
