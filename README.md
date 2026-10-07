@@ -25,7 +25,7 @@ Teacher at DarwinLand School April 2026 - June 2026
 - Trains teenagers in professional work with neural networks, transforming complex technologies into accessible tools for learning and creativity. 
 - Guides project development through prompt engineering, gamification, and the development of digital literacy. 
 - Helps students master the skills of the future by combining technical knowledge with critical thinking and creativity.
-
+ 
 Prompt Engineer & AI Prototype Specialist
 Freelance / Independent Consultant January 2025 – March 2026
 - Design, test, and refine advanced prompts for large language models (LLMs) and multimodal AI systems to achieve high-precision outputs in complex domains.
