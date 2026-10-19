@@ -33,7 +33,7 @@ Freelance / Independent Consultant January 2025 – March 2026
 - Leverage 5+ years of IT recruitment expertise to infuse domain-specific knowledge (software engineering, data science, cloud architecture, cybersecurity, etc.) into prompt engineering and AI solution design.
 
 Key Projects
-
+ 
 • [ChristmasTree (2026)](https://github.com/christmastreej/christmastreej.github.io)
 
   Developed an interactive generative AI experience that allows users to design and customize highly detailed, realistic Christmas trees via natural-language prompts. Implemented advanced prompt-chaining techniques and style-control methods that reduced hallucination by 85% while supporting multiple artistic styles (realistic, cartoon, steampunk, etc.). Deployed as a viral web demo during the 2026 holiday season.
