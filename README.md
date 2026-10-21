@@ -57,7 +57,7 @@ Covent IT (Israeli-based Tech Company) & Various Agencies                       
 
 
 Skills:
-
+ 
 • Prompt Engineering (chain-of-thought, tree-of-thought, few-shot, ReAct, multimodal)
 
 • AI Prototyping (LangChain, LlamaIndex, Vercel AI SDK, Hugging Face)
