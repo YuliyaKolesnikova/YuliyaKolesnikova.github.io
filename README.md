@@ -2,7 +2,7 @@ Yuliya Kolesnikova
  
 Founder and author of ShvydkoPereklad 
   
-Kyiv, Ukriane
+Ingolstadt, Germany
 | [yuliyakolesnikova@hotmail.com](mailto:yuliyakolesnikova@hotmail.com)  |  [linkedin.com/in/yuliya-kolesnikova](https://linkedin.com/in/yuliya-kolesnikova) |  [github.com/YuliyaKolesnikova](https://github.com/YuliyaKolesnikova) |
 [www.xing.com/profile/Yuliya_Kolesikova](https://www.xing.com/profile/Yuliya_Kolesikova)
   
@@ -45,7 +45,40 @@ Key Projects
  • [Fireworks Show (2026)](https://github.com/fireworksshowj/fireworksshowj.github.io)
   
   An engaging and visually stunning web application featuring interactive fireworks, realistic particle physics, and mesmerizing explosions. Click anywhere to launch beautiful fireworks into a starlit night sky. Perfect for celebrations, relaxation, or simply enjoying dazzling visual effects.
+
+<details>
+<summary>Other applications</summary>
  
+- [Snow Globe](https://snowglobej.github.io/)
+- [Aurora Borealis](https://auroraborealisj.github.io/)
+- [Pure Weather](https://pureweather.base44.app/)
+- [Aquarium Tank](https://aquariumtank.github.io/)
+- [Pomodoro Timer](https://pomodorotimerj.github.io/)
+- [Calculator](https://calculus.base44.app/)
+- [Memory Card Game](https://memorycardgame.github.io/)
+- [Matrix Rain](https://matrixrainj.github.io/)
+- [Noty](https://noty.base44.app/)
+- [Typing Speed Test](https://typingspeedtestj.github.io/)
+- [Drawing Canvas](https://drawingcanvas.github.io/)
+- [Cash Flow Monitor](https://cashflowmonitor.base44.app)
+- [Music Visualizer](https://musicvisualizer.github.io/)
+- [Weather Widget](https://weatherwidget.github.io/)
+- [Quiz App](https://quizapp.base44.app/)
+- [Valentine Hearts](https://valentinehearts.github.io/)
+- [Starry Night Sky](https://starrynightskyj.github.io/)
+- [Falling Leaves](https://fallingleavesj.github.io/)
+- [Recipe Book](https://recipe-book-ua.base44.app/)
+- [Analog Clock](https://analogclockj.github.io/)
+- [Snake Game](https://snakegamej.github.io/)
+- [Quote Generator](https://quotegeneratorj.github.io/)
+- [Birthday Card](https://birthdaycardj.github.io/)
+- [Bookmark Manager](https://bookmarkmanager.base44.app/)
+- [Password Generator](https://securepassgen.base44.app/)
+- [Pomodoro Timer base44](https://pomodorotimerj.base44.app/)
+- [Habit Tracker](https://habittrackerj.base44.app/)
+- [FlashLearnEnglish](https://flashlearnenglish.base44.app/)
+</details>
+
 IT Recruitment Specialist (Technology Focus) 
 Covent IT (Israeli-based Tech Company) & Various Agencies                                   2019 – 2024
 
